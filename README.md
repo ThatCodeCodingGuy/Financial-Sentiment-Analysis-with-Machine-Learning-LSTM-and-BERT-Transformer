@@ -34,7 +34,7 @@ In conclusion, not surprisingly, the BERT transformer model seems to be the best
 |Logistic Regression | 0.65     |
 |Linear SVC          | 0.67     |
 |XGBoost             | 0.67     |
-|LSTM                | 0.69     |
+|LSTM                | 0.70     |
 |BERT                | 0.77     |
 
 

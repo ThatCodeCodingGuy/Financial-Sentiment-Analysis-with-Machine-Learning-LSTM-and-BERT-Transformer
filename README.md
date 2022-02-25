@@ -21,7 +21,7 @@ Finally, for the last method, with the convenience of "simpletransformers" libra
 # Conclusion:
 
 Among the machine learning models, the poorest performance was Naive Bayes' with 0.52 accuracy. While, LinearSVC and XGBoost achieved the highest accuracy by 0.67.
-By using LSTM, I managed to increase the accuracy to 0.69. 
+By using LSTM, I managed to increase the accuracy to 0.70. 
 Finally, with BERT, I got the highest accuracy, which is 0.77. 
 In conclusion, not surprisingly, the BERT transformer model seems to be the best model for this financial sentiment analysis among the models I made use of.
 
